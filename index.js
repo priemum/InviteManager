@@ -26,7 +26,7 @@ client.guildData = {
   invites: [],
   systemChannel: null
 };
-client.guildMemberData = {
+client.guildMemberData = { 
   userId: null,
   invitedById: null,
   regular: [],
