@@ -6,7 +6,7 @@ const { Client } = require("discord.js");
 const { GCommands } = require("gcommands");
 const Keyv = require("keyv");
 
-const client = new Client({
+const client = new Client({ 
   disableMentions: "everyone"
 });
 
