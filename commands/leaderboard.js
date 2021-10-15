@@ -1,7 +1,7 @@
 const { MessageEmbed } = require("discord.js")
 const { MessageActionRow, MessageButton } = require("gcommands")
 const config = require("../config.json")
-
+            
 module.exports = {
     name: "leaderboard",
     description: "Check top",
